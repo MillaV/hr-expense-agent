@@ -44,11 +44,10 @@ Tämä on ensimmäinen toteuttamani agenttiprojekti. Tarkoituksena on tutustua a
 
 ## Kuvakaappaukset
 
-### 1. Agentin ohjeistus
+### 1. Agentin vastaus esimerkki 1
 ![OTSIKKO 1](kuvantiedostonimi.jpg)
 
-### 2. Agentin vastaus esimerkki 1
+### 2. Agentin vastaus esimerkki 2
 ![OTSIKKO 2](kuvantiedostonimi.jpg)
 
-### 3. Agentin vastaus esimerkki 2
-![OTSIKKO 3](kuvantiedostonimi.jpg)
+
