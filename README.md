@@ -36,7 +36,7 @@ Tämä on ensimmäinen toteuttamani agenttiprojekti. Tarkoituksena on tutustua a
 - Agentti sopii tilanteisiin joissa ei ole tulkinnanvaraisuutta. Selkeiden ehtojen ja sääntöjen avulla agentti pystyy antamaan luotettavan vastauksen.
 - Agentin ohjeistuksessa tulee antaa agentille selvät rajat ja lähteet, jotta se ei anna virheellisiä ohjeita. Epäselvissä tilanteissa agentin on osattava ohjata käyttäjä oikealle henkilölle.
 - Testauksen merkitys on suuri. Sillä varmistetaan, että agentin antaman vastaukset ovat luotettavia.
-- Ensimmäisen testauksen jälkeen huomasin agentin vastauksien olevan liian tylyjä. 
+
 
 ## Opittavaa
 - Miten seurataan/valvotaan agenttien toimintaa
@@ -45,9 +45,9 @@ Tämä on ensimmäinen toteuttamani agenttiprojekti. Tarkoituksena on tutustua a
 ## Kuvakaappaukset
 
 ### 1. Agentin vastaus esimerkki 1
-![OTSIKKO 1](kuvantiedostonimi.jpg)
+![OTSIKKO 1](Agentin-vastaus-1.jpg)
 
 ### 2. Agentin vastaus esimerkki 2
-![OTSIKKO 2](kuvantiedostonimi.jpg)
+![OTSIKKO 2](Agentin-vastaus-1.jpg)
 
 
