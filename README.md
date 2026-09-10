@@ -19,11 +19,11 @@ Tämä on ensimmäinen toteuttamani agenttiprojekti. Tarkoituksena on tutustua a
 
 
 ## Projektin vaiheet
-1. Matka-ja kululaskusohjeen laatiminen: Pyydetty Claudelta dokumenttia, jossa on usein esitettyjä kysymyksiä ja niiden vastauksia liittyen matka- ja kululaskuihin. Muokkasin saatua dokumenttia osittain vastaamaan haluamaani lopputulosta. Testiympäristössä käytin lähdeaineistona UKK PDF-tiedostoa. Tuotantoympäristössä kuitenkin voisi käyttää esimerkiksi yrityksen SharePoint-kansiota, jossa olisi ohjeet tallennettuna. 
+1. Matka-ja kululaskusohjeen laatiminen: Pyydetty Claudelta dokumenttia, jossa on usein esitettyjä kysymyksiä ja niiden vastauksia liittyen matka- ja kululaskuihin. Muokkasin saatua dokumenttia osittain vastaamaan haluamaani lopputulosta. Testiympäristössä käytin lähdeaineistona UKK-tiedostoa. Tuotantoympäristössä kuitenkin voisi käyttää esimerkiksi yrityksen SharePoint-kansiota, jossa olisi ohjeet tallennettuna. 
 2. Agentin ohjeistuksen laatiminen: Katsoin mallia Copilot Studion esimerkkiohjeistuksesta ja lähdin siitä liikkeelle. Pyysin Claudea täydentämään laatimani ohjeluonnosta, jotta saisin agentin toimimaan mahdollisimman hyvin annetussa roolissa.
 3. Testauksen suunnittelu: Pyysin Claudea luomaan testikysymykset lähdedokumenttini perusteella ja niiden oletusvastaukset.
 4. Testaus: Esitin testausdokumentin kysymykset agentille ja vertasin saatua vastausta testausdokumenttin. Kirjasin ylös vastasiko agentin antama vastaus oletettua vastausta.
-5. Muutokset: Tein muutoksia agentin ohjeisiin liittyen vastaustyyliin. Alkuperäiset olivat vähän liian ohjekirjamaisia.
+5. Muutokset: 
 
 ## Haasteet ja ratkaisut
 - Copilot Studion pystyttämäisessä oli ongelmia, koska olin luonut testitilin omaan ympäristööni ja hallinnoin itse ympäristöä/tilausta. Käyttöoikeuksista tuli toistuvasti virheilmoitus, joka esti agentin luomisen. Lopulta ratkaisu löytyi luomalla käyttäjäryhmä, jonka alle lisäsin kehitysympäristöä varten luomani käyttäjätilin Sekä odottamalla tarpeeksi kauan, jotta uudet asetukset "astuivat voimaan".  
