@@ -50,4 +50,7 @@ Tämä on ensimmäinen toteuttamani agenttiprojekti. Tarkoituksena on tutustua a
 ### 2. Agentin vastaus esimerkki 2
 ![OTSIKKO 2](Agentin-vastaus-1.jpg)
 
+### 3. Ote HR-ohjeistuksen dokumentista
+![OTSIKKO 3](HR-ohjeitukset-esimerkki.jpg)
+
 
