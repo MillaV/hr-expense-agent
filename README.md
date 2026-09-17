@@ -41,6 +41,7 @@ Tämä on ensimmäinen toteuttamani agenttiprojekti. Tarkoituksena on tutustua a
 ## Opittavaa
 - Miten seurataan/valvotaan agenttien toimintaa
 - Hyvät käytänteet testaukseen
+- Versionhallinta: agentin vastaus riippuu ohjeistuksesta sekä tietolähteistä, ja ne muuttuivat useaan kertaan projektin aikana. En pitänyt muutoksista systemaattista kirjaa, enkä siksi pysty jälkikäteen sanomaan, mikä muutos vaikutti mihinkin vastaukseen tai olenko todella testannut jokaisen muutoksen. Tulevissa projekteissa muutosloki ja versionumerot pitää opetella.
 
 ## Kuvakaappaukset
 
