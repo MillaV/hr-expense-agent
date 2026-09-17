@@ -15,7 +15,7 @@ Tämä on ensimmäinen toteuttamani agenttiprojekti. Tarkoituksena on tutustua a
 
 ## Agentin tehtävä
 - Auttaa työntekijöitä kirjaamaan ja toimittamaan yrityksen toimintatavan mukaisesti matka- ja kululaskut. 
-- Agentin ohjeet luettavissa täältä : [Agentin ohjeet](ohjeistus/agentin-ohjeet.md)
+- Agentin ohjeet luettavissa täältä : [Agentin ohjeet](Agentin-ohjeet.md)
 
 
 
