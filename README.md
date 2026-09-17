@@ -24,7 +24,7 @@ Tämä on ensimmäinen toteuttamani agenttiprojekti. Tarkoituksena on tutustua a
 2. Agentin ohjeistuksen laatiminen: Katsoin mallia Copilot Studion esimerkkiohjeistuksesta ja lähdin siitä liikkeelle. Pyysin Claudea täydentämään laatimani ohjeluonnosta, jotta saisin agentin toimimaan mahdollisimman hyvin annetussa roolissa.
 3. Testauksen suunnittelu: Pyysin Claudea luomaan testikysymykset lähdedokumenttini perusteella ja niiden oletusvastaukset.
 4. Testaus: Esitin testausdokumentin kysymykset agentille ja vertasin saatua vastausta testausdokumenttin. Kirjasin ylös vastasiko agentin antama vastaus oletettua vastausta.
-5. Muutokset: 
+5. Muutokset: Poistettu vastauksesta viittaus, jos vastaus perustuu kohtaan ”Mitä tämä ohje ei kata”
 
 ## Haasteet ja ratkaisut
 - Copilot Studion pystyttämäisessä oli ongelmia, koska olin luonut testitilin omaan ympäristööni ja hallinnoin itse ympäristöä/tilausta. Käyttöoikeuksista tuli toistuvasti virheilmoitus, joka esti agentin luomisen. Lopulta ratkaisu löytyi luomalla käyttäjäryhmä, jonka alle lisäsin kehitysympäristöä varten luomani käyttäjätilin Sekä odottamalla tarpeeksi kauan, jotta uudet asetukset "astuivat voimaan".  
